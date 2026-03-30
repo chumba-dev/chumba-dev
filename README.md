@@ -1,5 +1,6 @@
 # 💫 About Me:
-Full-Stack Software Engineer & UI/UX Designer I build scalable, secure web applications and cross-platform mobile solutions. I specialize in bridging the gap between robust backend logic and intuitive user experiences.<br><br>Software Development: Architecting RESTful APIs and full-stack systems.<br><br>Design: Creating user-centric interfaces and wireframes in Figma.<br><br>Core Focus: Security (JWT/Identity), Performance, and Clean Code.
+**Full-Stack Software Engineer & UI/UX Designer** 
+I build scalable, secure web applications and cross-platform mobile solutions. I specialize in bridging the gap between robust backend logic and intuitive user experiences.<br><br>Software Development: Architecting RESTful APIs and full-stack systems.<br><br>Design: Creating user-centric interfaces and wireframes in Figma.<br><br>Core Focus: Security (JWT/Identity), Performance, and Clean Code.
 
 
 ## 🌐 Socials:
